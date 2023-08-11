@@ -1,22 +1,14 @@
-
 # NAME: PikPak
 # AUTHOR: tugepaopao
-# UPDATED: 2022-05-06 16:46:45
-HOST-SUFFIX,mypikpak.com
-HOST-SUFFIX,config.mypikpak.com
-HOST-SUFFIX,user.mypikpak.com
-HOST-SUFFIX,static.mypikpak.com
-HOST-SUFFIX,hubciddata.sandai.net
-HOST-SUFFIX,dlandroid.rcv.sandai.net
-HOST-SUFFIX,hub5pr.v6.phub.sandai.net
-HOST-SUFFIX,hub5idx.v6.shub.sandai.net
-HOST-SUFFIX,hub5pn.wap.sandai.net
-HOST-SUFFIX,hub5pnc.sandai.net
-HOST-SUFFIX,api-drive.mypikpak.com
-HOST-SUFFIX,vod0049-aliyun18-vip-lixian.mypikpak.com
-HOST-SUFFIX,vod0050-aliyun18-vip-lixian.mypikpak.com
-HOST-SUFFIX,vod0051-aliyun18-vip-lixian.mypikpak.com
-HOST-SUFFIX,vod0393-aliyun18-vip-lixian.mypikpak.com
-HOST-SUFFIX,vod0395-aliyun18-vip-lixian.mypikpak.com
-HOST-KEYWORD,mypikpak
-HOST-KEYWORD,sandai
+# REPO: https://github.com/tugepaopao/Image-Storage
+# UPDATED: 2023-07-20 23:24:36
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
